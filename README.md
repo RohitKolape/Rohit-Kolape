@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohitKolape
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning Java, REST API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me this is my email "kolaperohit71@gmail.com"
 
